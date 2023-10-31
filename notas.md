@@ -4,7 +4,7 @@
 
 ## Projecto Final: Desarrollo De Aplicaciones Web Y Moviles.
 
-### **Catedrático:** DR. JORGE HUMBERTO RUIZ OVALLE
+### **Catedrático:** DR. Luis Gutíerrez Alfaro
 
 ### **Integrantes del equipo**
 
