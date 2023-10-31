@@ -34,6 +34,7 @@ Julio: 192.168.1.106
 ![](img/Inyeccion1.png)
 
 Acceso denegado
+
 ![](img/Inyeccion2.png)
 
 #### Prueba XSS Reflected
